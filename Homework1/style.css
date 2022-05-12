@@ -1,0 +1,10 @@
+
+table,td,th {
+  border-collapse: collapse;
+  border: 2px solid #ff0000;
+  text-align: end;
+  padding: 5px 3px 5px 7px;
+}
+.no-border {
+  border: none;
+}
