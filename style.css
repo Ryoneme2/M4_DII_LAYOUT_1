@@ -1,17 +1,7 @@
-/* add table style */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  /* height: 80vh; */
-}
-
-th,td {
-  padding: 8px;
-  text-align: left;
-  border: solid 1px #ccc;
-}
-
-th {
-  height: 70px;
-  text-align: center;
+div {
+  border: 1px solid #000;
+  width: 50%;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
 }
