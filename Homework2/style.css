@@ -1,0 +1,25 @@
+
+table,td,th {
+  border-collapse: collapse;
+  border: 2px solid #ccc;
+  text-align: start;
+}
+.no-border {
+  border: none;
+}
+td{
+  width: 180px;
+  height: 80px;
+}
+td>img{
+  width: 80px;
+  height: 80px;
+  border-radius: 3px;
+}
+td:nth-child(3)>img{
+  width: 180px;
+  height: 80px;
+}
+.blur {
+  filter: blur(5px);
+}
